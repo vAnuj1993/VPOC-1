@@ -4,9 +4,3 @@ Create table tblTemplate
 	TemplateName varchar(20),
 	IsEditable tinyint
 ) 
-<<<<<<< Updated upstream
-=======
-
----check
---githubchange
->>>>>>> Stashed changes
