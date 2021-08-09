@@ -4,3 +4,5 @@ Create table tblTemplate
 	TemplateName varchar(20),
 	IsEditable tinyint
 ) 
+
+---check
