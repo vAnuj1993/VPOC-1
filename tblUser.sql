@@ -9,4 +9,4 @@ Create table tblUser
 	Email nvarchar(50) null,
 	Contact int null,
 	IsNotification tinyint
-)
+) 
