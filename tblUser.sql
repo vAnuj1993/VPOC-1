@@ -10,3 +10,4 @@ Create table tblUser
 	Contact int null,
 	IsNotification tinyint
 ) 
+--github change

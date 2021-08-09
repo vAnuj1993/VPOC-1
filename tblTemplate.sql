@@ -4,5 +4,14 @@ Create table tblTemplate
 	TemplateName varchar(20),
 	IsEditable tinyint
 ) 
+<<<<<<< HEAD
 
 ---check
+=======
+<<<<<<< Updated upstream
+=======
+
+---check
+--githubchange
+>>>>>>> Stashed changes
+>>>>>>> Sepration-of-branch
